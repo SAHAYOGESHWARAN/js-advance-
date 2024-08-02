@@ -1,4 +1,4 @@
-console.log(x);
+
 
 let x = 100;
 var y =50;
@@ -11,3 +11,4 @@ function getSum(n1,n2){
 
 }
 
+/// hoisting
